@@ -38,8 +38,8 @@ bounceInRight: '从左到右弹入',
 bounceInDown: '从上到下弹入',
 bounceInUp: '从下到上弹入',
 ```
-```js
 **强调**
+```js
 wobble: '摇摆',
 rubberBand: '抖动',
 flip: '翻转',
@@ -49,8 +49,8 @@ slideDown: '下滑',
 tada: '放大抖动',
 jello: '倾斜摆动',
 ```
-```js
 **退出**
+```js
 fadeOut: '淡出',
 fadeOutUp: '从下到上移出',
 fadeOutDown: '从上到下移出',
@@ -67,8 +67,8 @@ rollOut: '翻滚退出',
 lightSpeedOut: '光速退出',
 puffOut: '放大退出',
 ```
-```js
 **背景**
+```js
 scaleUp: '背景放大',
 scaleDown: '背景缩小',
 ```
