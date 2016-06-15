@@ -1,5 +1,5 @@
-# easyAnimate
-深扒易企秀css animation动画库
+# css-animation
+深扒某秀 css animation 动画库
 
 # Usage
 在 css 中给元素的 `animation` 属性里加上动画名称即可：
@@ -74,7 +74,7 @@ scaleDown: '背景缩小',
 ```
 
 # Demo
-demo 文件夹里
+[here](demo/demo.html)
 
 
 
